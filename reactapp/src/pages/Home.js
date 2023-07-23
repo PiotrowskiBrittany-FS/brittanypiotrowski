@@ -89,7 +89,7 @@ const Home = () =>{
 
         </div>
         <div style={styles.container} id="resume">
-            <a href="www.linkedin.com/in/brittany-piotrowski-ab80b815b" target="_blank" style={styles.resume}><h1 style={styles.title}>Click here to see my Resume</h1></a>
+            <a href="https://www.linkedin.com/in/brittany-piotrowski-ab80b815b" target="_blank" style={styles.resume}><h1 style={styles.title}>Click here to see my Resume</h1></a>
         </div>
               
     </div>
